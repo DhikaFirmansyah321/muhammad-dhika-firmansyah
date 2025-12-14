@@ -2,7 +2,7 @@ export const nameApp = 'Company Profile';
 export const nameOwner = 'Dhika';
 export const titleHomeS1 = 'Hi, Muhammad Dhika Firmansyah';
 export const descriptionHomeS1 = 'Full Stack Developer yang selalu antusias dalam mempelajari teknologi yang terus berkembang. Saya menerapkan prinsip clean code, membuat pengalaman yang user‑friendly, dan membangun solusi yang mudah di‑maintain.';
-export const imageHomeS1 = 'src/assets/images/dhika-new.png';
+export const imageHomeS1 = '../assets/images/dhika-new.png';
 
 export const titleHomeS2 = 'Cerita';
 export const descriptionHomeS2 = 'Perjalanan saya dalam dunia pemrograman dimulai dari ketidaktahuan hingga menemukan passion sejati.';
