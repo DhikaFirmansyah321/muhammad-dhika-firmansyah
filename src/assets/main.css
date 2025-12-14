@@ -1,0 +1,37 @@
+@import "tailwindcss";
+@import './base.css';
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Waterfall&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=BBH+Hegarty&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Sofia&display=swap');
+
+/* Local Maytra font */
+@font-face {
+  font-family: 'Maytra';
+  src: url('./fonts/maytra/Maytra.otf') format('opentype'),
+       url('./fonts/maytra/Maytra.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+#app {
+  margin: 0 auto;
+  font-weight: normal;
+  background-color: white;
+}
+
+.monserrat{
+  font-family: 'Montserrat', sans-serif;
+}
+
+.waterfall{
+  font-family: 'Waterfall', sans-serif;
+}
+
+.bbh{
+  font-family: 'BBH Hegarty', sans-serif;
+}
+
+.maytra{
+  font-family: 'Maytra', sans-serif;
+}
